@@ -626,15 +626,25 @@ The most important design principle is:
 > **Generate intelligently, verify with evidence, keep a human in control, and guard external actions.**
 
 ---
+👨‍💻 About
+Subham Das
 
-## Interview Talking Point
+B.Tech Computer Science & Engineering student focused on building practical AI-powered applications.
 
-A concise way to describe the project:
+Areas of Focus
+Artificial Intelligence
+Machine Learning
+Deep Learning
+Natural Language Processing
+Large Language Models
+Generative AI
+Retrieval-Augmented Generation
+Agentic AI
 
-> **“SocialPilot AI is a LangGraph-based multi-agent social media management system. It researches a topic using web sources, detects trends, verifies claims, generates and adapts LinkedIn content, runs automated QA with a revision loop, waits for human approval, performs a deterministic pre-publish guard, and finally publishes the approved content through the LinkedIn API.”**
 
----
+## 📄 License
+Copyright © 2026 Subham Das. All rights reserved.
 
-## License
+This project and its contents are protected by copyright. No permission is granted to copy, modify, distribute, publish, sublicense, sell, or reuse the source code or other original materials without prior written permission from the copyright holder.
 
-Add the license you want to use for this project.
+For complete terms and permission requests, please refer to the MIT LICENSE file.
