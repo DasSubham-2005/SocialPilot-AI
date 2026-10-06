@@ -627,24 +627,23 @@ The most important design principle is:
 
 ---
 👨‍💻 About
-Subham Das
+ Subham Das
 
-B.Tech Computer Science & Engineering student focused on building practical AI-powered applications.
+ B.Tech Computer Science & Engineering student focused on building practical AI-powered applications.
 
-Areas of Focus
-Artificial Intelligence
-Machine Learning
-Deep Learning
-Natural Language Processing
-Large Language Models
-Generative AI
-Retrieval-Augmented Generation
-Agentic AI
+  Areas of Focus
+  Artificial Intelligence
+  Machine Learning
+  Deep Learning
+  Natural Language Processing
+  Large Language Models
+  Generative AI
+  Retrieval-Augmented Generation
+  Agentic AI
 
 
 ## 📄 License
-Copyright © 2026 Subham Das. All rights reserved.
 
-This project and its contents are protected by copyright. No permission is granted to copy, modify, distribute, publish, sublicense, sell, or reuse the source code or other original materials without prior written permission from the copyright holder.
+Copyright © 2026 Subham Das.
 
-For complete terms and permission requests, please refer to the MIT LICENSE file.
+This project is licensed under the [MIT License](LICENSE).
