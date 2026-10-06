@@ -1,0 +1,13 @@
+langgraph
+langchain
+langchain-google-genai
+tavily-python
+fastapi
+uvicorn
+streamlit
+sqlalchemy
+psycopg
+python-dotenv
+pydantic
+httpx
+pytest
